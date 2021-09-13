@@ -5,4 +5,5 @@
 
 
 > 效果图如下:
-> ![](screenVideo.gif)
+
+![](screenVideo.gif)
